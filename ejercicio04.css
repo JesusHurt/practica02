@@ -1,0 +1,21 @@
+img {
+    height: 200px;
+    width: 700px;
+  }
+
+  .image01{
+    max-width: 40%;
+    height: auto;
+    border-radius: 100px;
+  }
+  .image02{
+    width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 10px;
+  }
+  .image03{
+    max-width: 70%;
+    border-radius: 100px;
+  }
+  

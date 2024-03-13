@@ -1,0 +1,26 @@
+.parrafo{
+    color: rgb(0, 195, 255);
+    font-family: fantasy;
+    font-size: large;
+    font-weight: 500;
+}
+
+
+.h1{
+    color: brown;
+}
+.h2{
+    color:blueviolet;
+}
+.h3{
+color:rgb(255, 72, 16);
+}
+.h4{
+    color:rgb(229, 255, 0);
+}
+.h5{
+    color:blue;
+}
+.h6{
+    color: #f3bf14;
+}
